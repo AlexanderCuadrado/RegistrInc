@@ -2,7 +2,7 @@
 ## Documentación Técnica
 ### Estructura y Contenido
 #### Definición del Software
-RegistrInc es un software que tiene como propósito mejorar la eficacia y efiencia del registro de estudiantes de determinada institución o incluso podría ser modificado para agregar o quitar información según se lo desee, esto mediante una sencilla interfaz gráfica de usuario que permitirá ingresar, borrar y eliminar información de forma rápida y sencilla.
+RegistrInc es un software que tiene como propósito mejorar la eficacia y eficiencia del registro de estudiantes de determinada institución o incluso podría ser modificado para agregar o quitar información según se lo desee, esto mediante una sencilla interfaz gráfica de usuario que permitirá ingresar, borrar y eliminar información de forma rápida y sencilla.
 
 #### Requerimientos y Herramientas utilizadas
 RegistrInc es un software creado en el lenguaje de programación Java mediante el software NetBeans, por lo que para su modificación o manipulación será requerido un IDE que soporte Java (como por ejemplo el mismo NetBeans o Eclipse) así como por supuesto y recomendablemente la última versión del JRE Y JDK de Java.
@@ -71,7 +71,7 @@ En esta pestaña solo se necesita aceptar la licencia de free software del progr
 
 ![install](https://i.ibb.co/TWZMFCX/instalador.png)
 
-En esta pestaña se deberá escoger el sitio donde se instalará el programa presionando "*Examinar*", una vez hecho se debe presionar el botón "*Extraer*" tras lo cuál se procederá con la instalación del software.
+En esta pestaña se deberá escoger el sitio donde se instalará el programa presionando "*Examinar*", una vez hecho se debe presionar el botón "*Extraer*" tras lo cual se procederá con la instalación del software.
 Tras la instalación se creará una carpeta con el nombre del programa en la ubicación que se haya escogido para la instalación
 
 ![carpeta](https://i.ibb.co/Q9nDsbf/carpeta.png)
@@ -86,7 +86,7 @@ Una vez ejecutado el programa aparecerá una ventana para dar inicio al uso del 
 
 ![inicio](https://i.ibb.co/ZckvMDV/programa.png)
 
-En esta ventana bastante sencilla, sólo se debe escribir la información requerida en cada campo, a excepción de la fecha de registro la cuál se asginará sola en base a la fecha de la máquina en la que se este ejecutando, por lo cuál es **importante** que la fecha de la máquina en la que se corra el programa esté correctamente configurada. Cabe mencionar que los campos de *Nombre*, *Apellido* y *Carrera* tienen un bloqueo que no permite colocar números, mientras que el campo *Edad* tiene bloqueado el ingreso de caracteres alfabéticos, para evitar errores. (Consultar con el administrador de base de datos o del software en caso de requerirlo). Una vez escrita la información necesaria, solo se debe presionar el botón "*Registrar*" para el que programa guarde la información en la base de datos, tras lo cual se mostrará un pequeño mensaje notificando el éxito del registro.
+En esta ventana bastante sencilla, sólo se debe escribir la información requerida en cada campo, a excepción de la fecha de registro la cual se asginará sola en base a la fecha de la máquina en la que se este ejecutando, por lo cual es **importante** que la fecha de la máquina en la que se corra el programa esté correctamente configurada. Cabe mencionar que los campos de *Nombre*, *Apellido* y *Carrera* tienen un bloqueo que no permite colocar números, mientras que el campo *Edad* tiene bloqueado el ingreso de caracteres alfabéticos, para evitar errores. (Consultar con el administrador de base de datos o del software en caso de requerirlo). Una vez escrita la información necesaria, solo se debe presionar el botón "*Registrar*" para el que programa guarde la información en la base de datos, tras lo cual se mostrará un pequeño mensaje notificando el éxito del registro.
 
 ![notify](https://i.ibb.co/t2QbdbP/registro-exitoso.png)
 
